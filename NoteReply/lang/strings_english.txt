@@ -1,0 +1,14 @@
+<?php
+
+/**
+ * Note Reply - a MantisBT plugin that adds a reply button to issues
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with Note Reply.  If not, see <http://www.gnu.org/licenses/>.
+ *
+ * @copyright Copyright (C) 2020 Intra2net AG - www.intra2net.com
+ */
+
+$s_plugin_NoteReply_title = 'Note Reply';
+$s_plugin_NoteReply_description = 'Adds reply buttons to issues';
+$s_plugin_NoteReply_button_title = 'Reply';
